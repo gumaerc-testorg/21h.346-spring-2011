@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: bd747456-7848-59eb-493a-5a8c10930768
 ---
@@ -37,7 +40,7 @@ DUE
 [First paper]({{< baseurl >}}/pages/assignments/the-first-paper)
 {{< tdclose >}}
 {{< tdopen >}}
-8th class session
+8{{< sup "th" >}} class session
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +49,7 @@ DUE
 [Second paper]({{< baseurl >}}/pages/assignments/the-second-paper)
 {{< tdclose >}}
 {{< tdopen >}}
-13th class session
+13{{< sup "th" >}} class session
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +58,7 @@ DUE
 [Third paper]({{< baseurl >}}/pages/assignments/the-third-paper)
 {{< tdclose >}}
 {{< tdopen >}}
-20th class session
+20{{< sup "th" >}} class session
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +67,7 @@ DUE
 [Final paper]({{< baseurl >}}/pages/assignments/the-final-paper)
 {{< tdclose >}}
 {{< tdopen >}}
-26th (final) class session
+26{{< sup "th" >}} (final) class session
 {{< tdclose >}}
 
 {{< trclose >}}

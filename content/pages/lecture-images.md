@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lecture Images
 uid: def83507-de3a-dc68-bc43-d95e57776e1a
 ---

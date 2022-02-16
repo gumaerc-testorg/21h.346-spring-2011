@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: bd747456-7848-59eb-493a-5a8c10930768
 title: The Final Paper
 uid: 98e79356-5564-7d3e-aa94-b7e98fec4e0e
@@ -9,7 +13,7 @@ uid: 98e79356-5564-7d3e-aa94-b7e98fec4e0e
 Requirements
 ------------
 
-1.  You must submit a one-paragraph summary of your paper to me by the 16th class session. The summary should indicate which source or sources you will use, and how your analysis of this source or sources fits into the issues in French history we have studied this semester. I will comment on your summary and return it to you, but I will not grade it.
+1.  You must submit a one-paragraph summary of your paper to me by the 16{{< sup "th" >}} class session. The summary should indicate which source or sources you will use, and how your analysis of this source or sources fits into the issues in French history we have studied this semester. I will comment on your summary and return it to you, but I will not grade it.
   
 3.  Each student will give an oral presentation based on their project to the class during the next-to-last week of the term. The presentation will not last more than twenty-five minutes total. Each student will speak for 15-20 minutes, followed by 5-10 minutes of questions and conversation. These presentations should provide you with an opportunity to present your work to the class, and receive useful feedback prior to submitting the final version of the work.
   

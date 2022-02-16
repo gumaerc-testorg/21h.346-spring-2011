@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information related to 17th century theaters.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-346-france-1660-1815-enlightenment-revolution-napoleon-spring-2011/abecc13aeab7cd435363c140ee2a4375_MIT21H_346S11_s7c17theatrs.pdf
+file: /media/courses/21h-346-france-1660-1815-enlightenment-revolution-napoleon-spring-2011/abecc13aeab7cd435363c140ee2a4375_MIT21H_346S11_s7c17theatrs.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Lecture Images
+parent_type: CourseSection
 resourcetype: Document
 title: MIT21H_346S11_s7c17theatrs.pdf
 uid: abecc13a-eab7-cd43-5363-c140ee2a4375
