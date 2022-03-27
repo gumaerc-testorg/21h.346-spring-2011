@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Images
 parent_type: CourseSection
+parent_uid: def83507-de3a-dc68-bc43-d95e57776e1a
 resourcetype: Document
 title: MIT21H_346S11_s7THE_COMMNR.pdf
 uid: ba900a91-1083-f848-9b90-fc89c107b85d

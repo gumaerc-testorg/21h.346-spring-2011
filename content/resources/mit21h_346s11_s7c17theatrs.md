@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Images
 parent_type: CourseSection
+parent_uid: def83507-de3a-dc68-bc43-d95e57776e1a
 resourcetype: Document
 title: MIT21H_346S11_s7c17theatrs.pdf
 uid: abecc13a-eab7-cd43-5363-c140ee2a4375

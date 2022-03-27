@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Images
 parent_type: CourseSection
+parent_uid: def83507-de3a-dc68-bc43-d95e57776e1a
 resourcetype: Document
 title: MIT21H_346S11_s17RevRelgn.pdf
 uid: 4bb7a8ac-0c84-9ad6-af55-da36ee01e32b

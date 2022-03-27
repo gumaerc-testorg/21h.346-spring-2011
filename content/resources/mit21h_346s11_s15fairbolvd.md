@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Images
 parent_type: CourseSection
+parent_uid: def83507-de3a-dc68-bc43-d95e57776e1a
 resourcetype: Document
 title: MIT21H_346S11_s15fairbolvd.pdf
 uid: 6e75c87d-6cc1-25a4-3e4f-4cbfc0b4a3e8

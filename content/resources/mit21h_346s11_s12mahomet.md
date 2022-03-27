@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Images
 parent_type: CourseSection
+parent_uid: def83507-de3a-dc68-bc43-d95e57776e1a
 resourcetype: Document
 title: MIT21H_346S11_s12Mahomet.pdf
 uid: ae3ce300-3644-7c35-0558-49fa50d72e67
