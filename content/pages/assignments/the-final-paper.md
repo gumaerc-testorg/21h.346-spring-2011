@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines, instructions, and a list of primary
+  sources for a writing assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

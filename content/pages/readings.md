@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on required textbooks, optional textbooks,
+  and the schedule of readings by lecture topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

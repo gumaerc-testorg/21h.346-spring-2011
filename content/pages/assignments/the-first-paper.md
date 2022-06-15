@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides topics for a writing assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

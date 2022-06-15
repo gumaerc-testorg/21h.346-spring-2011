@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for the four writing assignments of
+  the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -37,7 +39,7 @@ DUE
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[First paper]({{< baseurl >}}/pages/assignments/the-first-paper)
+{{% resource_link 56756e8c-8972-8414-3e94-f3b1f9b01859 "First paper" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 8{{< sup "th" >}} class session
@@ -46,7 +48,7 @@ DUE
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Second paper]({{< baseurl >}}/pages/assignments/the-second-paper)
+{{% resource_link 46e5b1dc-c325-b515-0b1a-0e7a6181c533 "Second paper" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 13{{< sup "th" >}} class session
@@ -55,7 +57,7 @@ DUE
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Third paper]({{< baseurl >}}/pages/assignments/the-third-paper)
+{{% resource_link 32a5212a-4be3-212c-acbd-61aa8be58d6c "Third paper" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 20{{< sup "th" >}} class session
@@ -64,7 +66,7 @@ DUE
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Final paper]({{< baseurl >}}/pages/assignments/the-final-paper)
+{{% resource_link 98e79356-5564-7d3e-aa94-b7e98fec4e0e "Final paper" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 26{{< sup "th" >}} (final) class session
