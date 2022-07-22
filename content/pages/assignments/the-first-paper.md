@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section provides topics for a writing assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: bd747456-7848-59eb-493a-5a8c10930768
 title: The First Paper
 uid: 56756e8c-8972-8414-3e94-f3b1f9b01859
