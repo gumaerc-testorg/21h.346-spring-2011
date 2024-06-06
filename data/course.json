@@ -33,6 +33,7 @@
     "website": "21h-346-france-1660-1815-enlightenment-revolution-napoleon-spring-2011"
   },
   "course_title": "France, 1660-1815: Enlightenment, Revolution, Napoleon",
+  "hide_download": false,
   "course_description": "This course covers French politics, culture, and society from Louis XIV to Napoleon Bonaparte. Attention is given to the growth of the central state, the beginnings of a modern consumer society, the Enlightenment, the French Revolution, including its origins, and the rise and fall of Napoleon.\n",
   "department_numbers": [
     "21H"
@@ -44,7 +45,8 @@
     "website": "21h-346-france-1660-1815-enlightenment-revolution-napoleon-spring-2011"
   },
   "learning_resource_types": [
-    "Written Assignments"
+    "Written Assignments",
+    "Lecture Notes"
   ],
   "site_uid": "4a66ec10-d533-40f7-a5c7-d21f36069e07",
   "site_short_id": "21h.346-spring-2011",
