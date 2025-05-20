@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to fair and boulevard theaters
   in eighteenth-century Paris.
 draft: false
-file: /ol-ocw-studio-app/courses/21h-346-france-1660-1815-enlightenment-revolution-napoleon-spring-2011/6e75c87d6cc125a43e4f4cbfc0b4a3e8_MIT21H_346S11_s15fairbolvd.pdf
+file: /courses/21h-346-france-1660-1815-enlightenment-revolution-napoleon-spring-2011/6e75c87d6cc125a43e4f4cbfc0b4a3e8_MIT21H_346S11_s15fairbolvd.pdf
 file_size: 393447
 file_type: application/pdf
 image_metadata:
