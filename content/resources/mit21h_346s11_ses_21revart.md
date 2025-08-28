@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains information related to the revolutionary art\
   \ of david & ingres, 1785-1812.\r\n"
 draft: false
-file: /courses/21h-346-france-1660-1815-enlightenment-revolution-napoleon-spring-2011/ac2efce941e066b508bdb897bfa908a1_MIT21H_346S11_ses_21revart.pdf
+file: /ol-ocw-studio-app/courses/21h-346-france-1660-1815-enlightenment-revolution-napoleon-spring-2011/ac2efce941e066b508bdb897bfa908a1_MIT21H_346S11_ses_21revart.pdf
 file_size: 1214903
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to 17th century theaters.
 draft: false
-file: /courses/21h-346-france-1660-1815-enlightenment-revolution-napoleon-spring-2011/abecc13aeab7cd435363c140ee2a4375_MIT21H_346S11_s7c17theatrs.pdf
+file: /ol-ocw-studio-app/courses/21h-346-france-1660-1815-enlightenment-revolution-napoleon-spring-2011/abecc13aeab7cd435363c140ee2a4375_MIT21H_346S11_s7c17theatrs.pdf
 file_size: 642862
 file_type: application/pdf
 image_metadata:
