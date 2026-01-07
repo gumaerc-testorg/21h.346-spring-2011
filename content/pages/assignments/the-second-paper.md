@@ -14,7 +14,7 @@ uid: 46e5b1dc-c325-b515-0b1a-0e7a6181c533
 Topics
 ------
 
-1.  Analyze one of the _Encyclopédie_ articles from the following list. What might have been controversial about this article for eighteenth-century readers? (English translations of these articles are at {{% resource_link "7f7092e4-431a-410c-a926-26b62ab7995f" "http://quod.lib.umich.edu/d/did/" %}}.)
+1.  Analyze one of the _Encyclopédie_ articles from the following list. What might have been controversial about this article for eighteenth-century readers? (English translations of these articles are at [http://quod.lib.umich.edu/d/did/](http://quod.lib.umich.edu/d/did/).)
     *   History
     *   Intolerance
     *   Jesuit
